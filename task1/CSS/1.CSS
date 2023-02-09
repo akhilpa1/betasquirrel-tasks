@@ -20,8 +20,9 @@ body{
     background-color: #f8f8f8;
     height: 300px;
     border: 1px solid black;
-    width: 31%;
+    width: 31.5%;
     float: left;
+    padding: auto;
 
 }
 /* .first { */
@@ -34,7 +35,7 @@ body{
     margin-left: 8.9999px;
 }
 div {
-    padding: 6px;
+    padding: 7px;
 }
 .left {
     float: left;
@@ -54,6 +55,3 @@ div {
 .right a {
     color: #f8f8f8;
 }
-/* #nbar right { */
-    /* margin-right: 100px; */
-/* } */
