@@ -6,13 +6,13 @@
 
 | Requirements                             | Output                                                  |
 | ---------------------------------------- | ------------------------------------------------------- |
-| Task1 ![Task 1](task-1/images/images.jpg)  | Screenshot ![Screenshot](task-1/image/Screenshot.png)  |
+| Task1 ![Task 1](task1/images/image.jpg)  | Screenshot ![Screenshot](task1/images/Screenshot.png)  |
 
 ### **task 2**
 
 | Requirements                            | Output                                                  |
 | --------------------------------------- | ------------------------------------------------------- |
-| Task2 ![Task 2](task-2/images/images.jpg)  | Screenshot ![Screenshot](task-2/image/Screenshot.png)  |
+| Task2 ![Task 2](task2/images/images.jpg)  | Screenshot ![Screenshot](task2/images/Screenshot.png)  |
 
 ### **task 3**
 
@@ -35,7 +35,7 @@
 
 | Requirements                              | Output                                           |
 | ----------------------------------------- | ------------------------------------------------ |
-| Task4 ![Task 4](task-4/images/images.jpg)  | Screenshot ![Screenshot](task-4/image/Screenshot.png)  |
+| Task4 ![Task 4](task4/images/images.jpg)  | Screenshot ![Screenshot](task4/images/Screenshot.png)  |
 
 ### _Linux Commands_
 
