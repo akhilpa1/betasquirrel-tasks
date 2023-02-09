@@ -6,13 +6,13 @@
 
 | Requirements                             | Output                                                  |
 | ---------------------------------------- | ------------------------------------------------------- |
-| Task1 ![Task 1](task-1/images/req1.jpg)  | Screenshot ![Screenshot](task-1/images/Screenshot.png)  |
+| Task1 ![Task 1](task-1/images/req1.jpg)  | Screenshot ![Screenshot](task-1/images/Screenshot (5).png)  |
 
 ### **task 2**
 
 | Requirements                            | Output                                                  |
 | --------------------------------------- | ------------------------------------------------------- |
-| Task2 ![Task 2](task-2/images/req.jpg)  | Screenshot ![Screenshot](task-2/images/Screenshot.png)  |
+| Task2 ![Task 2](task-2/images/req.jpg)  | Screenshot ![Screenshot](task-2/images/Screenshot (6).png)  |
 
 ### **task 3**
 
@@ -35,7 +35,7 @@
 
 | Requirements                              | Output                                           |
 | ----------------------------------------- | ------------------------------------------------ |
-| Task4 ![Task 4](task-4/images/input.jpg)  | Screenshot ![Screenshot](task-4/images/res.png)  |
+| Task4 ![Task 4](task-4/images/input.jpg)  | Screenshot ![Screenshot](task-4/images/Screenshot (7).png)  |
 
 ### _Linux Commands_
 
@@ -74,6 +74,6 @@
 
 ### **Task 6**
 
-- my page [Click here](https://akash-saji.github.io/betasquirrel-task/)
+- my page [Click here](https://akhilpa1.github.io/betasquirrel-tasks/)
 
 ## end
