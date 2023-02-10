@@ -35,7 +35,7 @@
 
 | Requirements                              | Output                                           |
 | ----------------------------------------- | ------------------------------------------------ |
-| Task-4 ![Task 4](task-4/images/images.jpg)  | Screenshot ![Screenshot](task4/images/Screenshot.png)  |
+| Task-4 ![Task 4](task-4/images/images.jpg)  | Screenshot ![Screenshot](task-4/images/Screenshot.png)  |
 
 ### _Linux Commands_
 
