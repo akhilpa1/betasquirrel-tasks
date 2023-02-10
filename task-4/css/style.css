@@ -3,22 +3,17 @@
     background-color: rgb(255, 255, 255);
     margin: auto;
 }
-
 #navbar {
     background-color: rgb(98, 92, 92);
-    height: 80px;
-    
+    height: 80px;   
 }
-#navbar #logo {
-    
+#navbar #logo {   
     padding-left: 20px;
 }
 #navbar #logo img {
     height: 50px;
     float: left;
     padding-top: 15px;
-    
-
 }
 #navbar #logo h2{
     float: left;
@@ -38,8 +33,6 @@
     width: 47px;
     border-radius: 50%;
 }
-
-
 #sidebar {
     width: 16%;
     height: 710px;
@@ -57,12 +50,8 @@
     color: green;
     padding-top: 8px;
     padding-left: 20px;
-    
     text-decoration: none;
 }
-
-
-
 #mainbody {
     height: 712px;
     width: 84%;
@@ -77,26 +66,20 @@
 #mainbody .dashboard2 {
     width: 24%;
     height: 220px;
-    background-color: rgb(165, 106, 236);
-    
+    background-color: rgb(165, 106, 236); 
     float: left;
     margin-left: 10px;
-    margin-bottom: 55px
-    
+    margin-bottom: 55px  
 }
-
 #mainbody .dashboard2 p{
     text-align: center;
     margin-top: 60px;
     color: aliceblue;
-
 }
-
 #mainbody .dashboard3 {
     width: 24%;
     height: 220px;
     background-color: rgb(243, 78, 30);
-
     float: left;
     margin-left: 10px;
     margin-bottom: 55px
@@ -105,14 +88,12 @@
     text-align: center;
     margin-top: 60px;
     color: aliceblue;
-
 }
 
 #mainbody .dashboard4 {
     width: 24%;
     height: 220px;
     background-color: rgb(26, 188, 253);
-
     float: left;
     margin-left: 8px;
     margin-bottom: 55px
@@ -120,16 +101,12 @@
 #mainbody .dashboard4 p{
     text-align: center;
     margin-top: 60px;
-    color: rgb(255, 255, 255)
-    ;
-
+    color: rgb(255, 255, 255);
 }
-
 #mainbody .dashboard1 {
     width: 24%;
     height: 220px;
     background-color: rgb(10, 206, 130);
-
     float: left;
     margin-left: 10px;
     margin-bottom: 55px;
@@ -138,11 +115,7 @@
     text-align: center;
     margin-top: 60px;
     color: aliceblue;
-
 }
-
-
-
 #mainbody .circle1 {
     width: 240px;
     height: 240px;
@@ -179,16 +152,13 @@
     float: left;
     margin-left: 50px;
 }
-
-
 #mainbody .circle1 #inn{
     background-color: rgb(10, 206, 130);
     border-radius: 50%;
     height: 170px;
     width: 170px;
     margin-top: 40px;
-    margin-left: 40px;
-    
+    margin-left: 40px;   
 }
 #mainbody .circle3 #small {
     background-color:rgb(165, 106, 236);
@@ -204,8 +174,7 @@
     height: 10px;
     background-color: rgb(98, 92, 92);
     margin-top: 245px;
-    margin-left: 20px;
-    
+    margin-left: 20px;   
 }
 #mainbody .circle4 .ll1 {
     width: 10px;
@@ -214,7 +183,6 @@
     float: left;
     margin-left: 20px;
     margin-top: 46px;
-
 }
 #mainbody .circle4 .ll2 {
     width: 10px;
@@ -223,7 +191,6 @@
     float: left;
     margin-left: 20px;
     margin-top: 145px;
-
 }
 #mainbody .circle4 .ll3 {
     width: 10px;
@@ -232,7 +199,6 @@
     float: left;
     margin-left: 20px;
     margin-top: 110px;
-
 }
 #mainbody .circle4 .ll4 {
     width: 10px;
@@ -241,7 +207,6 @@
     float: left;
     margin-left: 20px;
     margin-top: 175px;
-
 }
 #mainbody .circle4 .ll5 {
     width: 10px;
@@ -250,7 +215,6 @@
     float: left;
     margin-left: 20px;
     margin-top: 81px;
-
 }
 #mainbody .circle4 .ll6 {
     width: 10px;
@@ -259,9 +223,7 @@
     float: left;
     margin-left: 20px;
     margin-top: 195px;
-
 }
-
 #mainbody .circle1 #inn p{
     margin-left: 65px;
     padding-top: 80px;
@@ -270,11 +232,9 @@
     text-align: center;
     margin-top: 110px;
     margin-right:20px ;
-
 }
 #mainbody .circle3 p{
    color: aliceblue;
    text-align: center;
    margin-top: 25px;
-
 }
