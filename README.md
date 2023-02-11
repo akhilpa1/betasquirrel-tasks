@@ -6,13 +6,13 @@
 
 | Requirements                             | Output                                                  |
 | ---------------------------------------- | ------------------------------------------------------- |
-| Task-1 ![Task 1](task1/images/image.jpg)  | Screenshot ![Screenshot](task-1/images/Screenshot.png)  |
+| Task-1 ![Task 1](task-1/images/image.jpg)  | Screenshot ![Screenshot](task-1/images/Screenshot.png)  |
 
 ### **task 2**
 
 | Requirements                            | Output                                                  |
 | --------------------------------------- | ------------------------------------------------------- |
-| Task-2 ![Task 2](task2/images/images.jpg)  | Screenshot ![Screenshot](task-2/images/Screenshot.png)  |
+| Task-2 ![Task 2](task-2/images/images.jpg)  | Screenshot ![Screenshot](task-2/images/Screenshot.png)  |
 
 ### **task 3**
 
